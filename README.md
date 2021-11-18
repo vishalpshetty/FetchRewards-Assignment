@@ -14,6 +14,6 @@ The answers to the questions are in the Query results and Data quality folder in
 Email is written in the email.pdf file
 
 -Additional information-
-Cleaning scipt is written in python and can be found in Fetch-clen.py
+Cleaning script is written in python and can be found in Fetch-clen.py
 Cleaned and original json files are found in data folder
 
